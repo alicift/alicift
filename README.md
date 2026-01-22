@@ -1,4 +1,6 @@
 Hi there, I'm Ali! 👋
+
+
 I am a 3rd-year Electrical and Electronics Engineering student focused on control systems, automation, and embedded software.
 
 🔍 About Me
@@ -13,15 +15,14 @@ I am a 3rd-year Electrical and Electronics Engineering student focused on contro
 ✍️ Always learning new technologies and working on hands-on engineering projects.
 
 🛠️ Skills & Tools
-Programming: Python, C, C++, Structured Text (PLC).
+- Programming: Python, Structured Text (PLC).
 
-Automation & Control: PLC Programming, OPC UA, SCADA, MATLAB & Simulink.
+- Automation & Control: PLC Programming, OPC UA, MATLAB & Simulink.
 
-Tools: Git & GitHub, VS Code, TIA Portal.
+- Tools: Git & GitHub, VS Code.
 
 🚀 Projects
-Traction Control System Simulation: A project focused on vehicle dynamics and control logic.
+- Traction Control System Simulation: A project focused on vehicle dynamics and control logic.
 
-PLC Automation Project: Development of industrial automation solutions using PLC and Python integration.
+- PLC Automation Project: Development of industrial automation solutions using PLC and Python integration.
 
-Embedded Systems Work: Various applications involving microcontroller programming and hardware interface.
