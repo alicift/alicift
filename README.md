@@ -3,7 +3,6 @@ Hi there, I'm Ali! 👋
 I am a 3rd-year Electrical and Electronics Engineering student focused on control systems, automation, and embedded software.
 
 ---
-
 🔍 About Me
 ---
 🎓 Studying Electrical and Electronics Engineering at Muğla Sıtkı Koçman University.
@@ -27,6 +26,7 @@ I am a 3rd-year Electrical and Electronics Engineering student focused on contro
 
 ---
 🚀 Projects
+---
 - Traction Control System Simulation: A project focused on vehicle dynamics and control logic.
 
 - PLC Automation Project: Development of industrial automation solutions using PLC and Python integration.
