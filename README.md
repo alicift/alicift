@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi there, I'm Ali! 👋
+I am a 3rd-year Electrical and Electronics Engineering student focused on control systems, automation, and embedded software.
 
-<!--
-**alicift/alicift** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 About Me
+🎓 Studying Electrical and Electronics Engineering at Muğla Sıtkı Koçman University.
 
-Here are some ideas to get you started:
+⚡ Interested in Control Theory, Automation Systems, and Embedded Systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏗️ Experienced in electrical installations and site supervision through internships.
+
+📈 Currently improving my skills in signals and systems and power electronics.
+
+✍️ Always learning new technologies and working on hands-on engineering projects.
+
+🛠️ Skills & Tools
+Programming: Python, C, C++, Structured Text (PLC).
+
+Automation & Control: PLC Programming, OPC UA, SCADA, MATLAB & Simulink.
+
+Tools: Git & GitHub, VS Code, TIA Portal.
+
+🚀 Projects
+Traction Control System Simulation: A project focused on vehicle dynamics and control logic.
+
+PLC Automation Project: Development of industrial automation solutions using PLC and Python integration.
+
+Embedded Systems Work: Various applications involving microcontroller programming and hardware interface.
