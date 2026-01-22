@@ -31,3 +31,12 @@ I am a 3rd-year Electrical and Electronics Engineering student focused on contro
 
 - PLC Automation Project: Development of industrial automation solutions using PLC and Python integration.
 
+---
+📫 How to reach me
+---
+Email: alicift3019@gmail.com
+
+LinkedIn: www.linkedin.com/in/ali-çift
+
+
+
