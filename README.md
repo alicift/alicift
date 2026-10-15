@@ -16,20 +16,25 @@ I am a 4th-year Electrical and Electronics Engineering student focused on contro
 ---
 💼 Experience
 ---
+
 **Test Engineer Intern, Orbit Enerji** (Summer 2026)
+
 Took part in testing and quality control processes for energy equipment, performing functional tests and documenting results. Worked alongside engineers to identify issues and verify that products met technical specifications.
 
 **Electrical Intern, Area Elektrik** (Summer 2025)
+
 Assisted with electrical installations and site supervision, including reading project drawings, cable and panel work, and following safety procedures on site.
+
 ---
 🛠️ Skills & Tools
 ---
+
 - **Programming:** Python, Structured Text (PLC).
 
 - **Automation & Control:** PLC Programming, OPC UA, MATLAB & Simulink.
 
 - **Tools:** Git & GitHub, VS Code.
-- 
+  
 - **Energy Systems:** Battery Management Systems (BMS) testing, power electronics.
 
 ---
